@@ -9,3 +9,12 @@
 html{
     font-size: 62.5%;
 }
+
+body{
+    /*background-color: #23252c;*/
+    font-family: 'Inter', sans-serif;
+}
+
+a{
+    all: unset;
+}
