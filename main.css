@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
 
 *{
   box-sizing: border-box;
@@ -9,8 +11,8 @@ html{
   font-size: 62.5%;
 }
 body{
-  background-color: #23252C;
-  font-family: 'Inter', sans-serif;
+  background-color: #e2f9f9;
+  font-family: 'Black Ops One', cursive;
 }
 a{
   all: unset;
@@ -67,6 +69,7 @@ a{
   font-size: 2.5rem;
   font-weight: bold;
   line-height: 30px;
+  : center;
 }
 
 .bcard__title{
